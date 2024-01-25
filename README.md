@@ -1,6 +1,6 @@
 # Hello, I'm MattMorrison94! 👋
 
-Passionate Coding | Aspiring Developer | <!-- Open Source Contributor -->
+Passionate Coder | Aspiring Developer | <!-- Open Source Contributor -->
 
 Welcome to my GitHub profile! I'm Matt, an aspiring web developer based in Adelaide, South Australia. I have a keen interest in Frontend & iOS App Development, and I love to code, workout and play video games in my downtine. I am currently learning to code with Codecademy's online platform! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat!
 
