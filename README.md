@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Matt, an aspiring web developer based in Adela
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [Your Programming Languages]
+- **Languages:** HTML5, CSS, Swift, 
 <!--- **Frameworks & Libraries:** [Frameworks and Libraries]
 - **Tools & Technologies:** [Tools and Technologies] -->
 
@@ -48,8 +48,8 @@ Check out my [GitHub Gists](https://gist.github.com/your-username) for more snip
 
  I'm always interested in discussing [Your Interests or Topics]. If you have any questions, suggestions, or just want to chat, feel free to [open an issue](https://github.com/your-username/your-repo/issues) on one of my repositories or send me a message! -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) --> 
 
 Thanks for visiting my profile! 😊
