@@ -1,4 +1,4 @@
-# Hello, I'm MattMorrison94! 👋
+# Hello, I'm Matt! 👋
 
 Passionate Coder | Aspiring Developer | <!-- Open Source Contributor -->
 
