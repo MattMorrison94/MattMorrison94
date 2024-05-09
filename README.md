@@ -1,6 +1,6 @@
 # Hello, I'm Matt! 👋
 
-Passionate Coder | Aspiring Developer | <!-- Open Source Contributor -->
+Passionate Beginner Coder | Aspiring Developer | <!-- Open Source Contributor -->
 
 Welcome to my GitHub profile! I'm Matt, an aspiring web developer based in Adelaide, South Australia. I have a keen interest in Frontend & iOS App Development, and I love to code, workout and play video games in my downtine. I am currently learning to code with Codecademy's online platform! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat!
 
@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm Matt, an aspiring web developer based in Adela
 <!--- **Frameworks & Libraries:** [Frameworks and Libraries]
 - **Tools & Technologies:** [Tools and Technologies] -->
 
-<!--## 🚀 Projects
+## 🚀 Projects
 
 Here are some of the projects I'm currently working on or have completed:
 
-1. [Project Name](Link to the project): Brief description of the project.
-2. [Project Name](Link to the project): Brief description of the project.
+1. Appetizers - Swift (https://github.com/MattMorrison94/Appetizers): Appetizers project from Sean Allen's Swift/SwiftUI Fundamentals. A fun work in prgress utilising Swift, SwiftUI, UIKit, & Network calls.
+<!-- 2. [Project Name](Link to the project): Brief description of the project.
 3. [Project Name](Link to the project): Brief description of the project. -->
 
 Feel free to explore my [repositories](https://github.com/MattMorrison94) for more projects!
