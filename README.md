@@ -22,7 +22,7 @@ Feel free to explore my [repositories](https://github.com/MattMorrison94) for mo
 
 ## 🌱 I’m currently learning
 
-- CSS & JavaScript
+~~- CSS & JavaScript~~
 - Swift & SwiftUI
 
 I believe in the power of continuous learning, and I'm currently focused on improving my skills in Frontend & iOS App Development.
