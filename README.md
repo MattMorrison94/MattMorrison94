@@ -1,55 +1,106 @@
 # Hello, I'm Matt! 👋
 
-Passionate Beginner Coder | Aspiring Developer | <!-- Open Source Contributor -->
+  **Frontend & iOS Developer | AI-Assisted Development Enthusiast | Continuous Learner**
 
-Welcome to my GitHub profile! I'm Matt, an aspiring web developer based in Adelaide, South Australia. I have a keen interest in Frontend & iOS App Development, and I love to code, workout and play video games in my downtine. I am currently learning to code with Codecademy's online platform! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat!
+  Welcome to my GitHub profile! I'm Matt, a web and iOS developer based in Adelaide, South Australia. I'm passionate about crafting intuitive user experiences through clean code and modern development practices. I embrace AI-powered development tools to accelerate learning and build better software faster. When I'm not coding, you'll find me at the gym or diving into my favorite video games.
 
-## 🔧 Technologies & Tools
+  ## 📊 GitHub Stats
 
-- **Languages:** HTML5, CSS, Swift, 
-<!--- **Frameworks & Libraries:** [Frameworks and Libraries]
-- **Tools & Technologies:** [Tools and Technologies] -->
+  <div align="center">
 
-## 🚀 Projects
+  ![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattMorrison94&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-Here are some of the projects I'm currently working on or have completed:
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattMorrison94&theme=radical&hide_border=true)
 
-1. Appetizers - Swift (https://github.com/MattMorrison94/Appetizers): Appetizers project from Sean Allen's Swift/SwiftUI Fundamentals. A fun work in prgress utilising Swift, SwiftUI, UIKit, & Network calls.
-<!-- 2. [Project Name](Link to the project): Brief description of the project.
-3. [Project Name](Link to the project): Brief description of the project. -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattMorrison94&layout=compact&theme=radical&hide_border=true)
 
-Feel free to explore my [repositories](https://github.com/MattMorrison94) for more projects!
+  </div>
 
-## 🌱 I’m currently learning
+  ## 🔧 Technologies & Tools
 
-~~- CSS & JavaScript~~
-- Swift & SwiftUI
+  <div align="center">
 
-I believe in the power of continuous learning, and I'm currently focused on improving my skills in Frontend & iOS App Development.
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<!-- ## 📫 Let's Connect
+  </div>
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [@YourTwitterHandle](Link to Twitter)
-- Portfolio: [Your Portfolio Website](Link to Portfolio)
+  **Development Workflow:** AI-assisted coding with Claude, GitHub Copilot, and other modern AI tools
 
-Feel free to connect with me. I'm always open to interesting conversations and collaboration! --> 
+  ## 🚀 Featured Projects
 
-<!-- ## 🤝 Open Source Contributions
+  <details>
+  <summary><b>Workplace Time Keeper - iOS</b> (Click to expand)</summary>
+  <br>
+  A native iOS application designed to help users track and manage their work hours efficiently. Built with Swift and SwiftUI, featuring an intuitive interface for logging time entries and generating reports.
 
-I'm passionate about contributing to open source. Here are some of my contributions:
+  🔗 [View Site](https://workplacetimekeeper.com)
+  </details>
 
-1. [Contribution Name](Link to Contribution): Brief description.
-2. [Contribution Name](Link to Contribution): Brief description.
+  <details>
+  <summary><b>Lofte - iOS</b> (Click to expand)</summary>
+  <br>
+  An iOS application showcasing modern Swift development practices and SwiftUI capabilities.
 
-Check out my [GitHub Gists](https://gist.github.com/your-username) for more snippets and smaller projects.
+  🔗 In Progress
+  </details>
 
-## 💬 Let's Discuss
+  <details>
+  <summary><b>BookingHub - Web</b> (Click to expand)</summary>
+  <br>
+  A full-featured web application for managing bookings and reservations. Built with TypeScript and React on the frontend, powered by Supabase for backend services and database management, and deployed on Vercel. Features type-safe development, real-time data synchronization, and a seamless booking experience.
 
- I'm always interested in discussing [Your Interests or Topics]. If you have any questions, suggestions, or just want to chat, feel free to [open an issue](https://github.com/your-username/your-repo/issues) on one of my repositories or send me a message! -->
+  🔗 [View Site](https://booking-hub.app)
+  </details>
 
-<!-- ## 📊 GitHub Stats
+  ## 🌱 Currently Learning
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) --> 
+  - 📱 Advanced JavaScript & TypeScript patterns
+  - ⚛️ React component architecture
+  - 🔥 Supabase backend development and real-time features
+  - 🎨 SwiftUI advanced patterns and animations
+  - 🗄️ Database design and SQL optimization
+  - 🏗️ iOS app architecture and best practices
+  - 🤖 Leveraging AI tools for rapid prototyping and problem-solving
 
-Thanks for visiting my profile! 😊
+  ## 💡 Development Philosophy
+
+  I believe in embracing modern tools to maximize productivity and learning. By combining traditional coding fundamentals with AI-assisted development, I can focus on solving problems creatively while building robust, well-architected applications.
+
+  ## 🏆 GitHub Trophies
+
+  <div align="center">
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=MattMorrison94&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+  </div>
+
+  ## 📫 Let's Connect!
+
+  <div align="center">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MattMorrison94)
+
+  </div>
+
+  Feel free to explore my repositories, and don't hesitate to reach out if you have any questions, want to collaborate, or just fancy a chat about development!
+
+  <div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=MattMorrison94&color=blueviolet&style=flat-square)
+
+  </div>
+
+  ---
+
+  <div align="center">
+
+  *Continuously learning, consistently building, intelligently assisted.* 🚀
+
+  </div>
