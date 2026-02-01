@@ -55,17 +55,14 @@ I'm a web and iOS developer based in Adelaide, Australia. I craft intuitive user
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MattMorrison94&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattMorrison94&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MattMorrison94&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattMorrison94&layout=compact&theme=radical&hide_border=true)
 
-</div>
-
----
+--->
 
 ## 💡 Philosophy
 
